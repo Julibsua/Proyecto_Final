@@ -1,0 +1,70 @@
+INTRODUCCION
+Se realiza un análisis genral y en particular sobre la situación educativa en los municipios del departamento del Atlántico y la capital de Bogotá D.C., utilizando indicadores clave de cobertura, conectividad, y tamaño de los grupos. Estos territorios representan realidades contrastantes: Bogotá como capital de Colombia siendo el centro urbano principal y Atlántico como región con un de crecimiento económico y educativo particular. El análisis se centra en variables críticas como cobertura neta/bruta, deserción, aprobación y repitencia, con el objetivo de identificar correlaciones que impacten en la educación en población de 5 a 16 años.
+
+CONTEXTO
+
+En Colombia se estructura su educación inicial en cuatro niveles: transición (preescolar), primaria, secundaria y media. Los datos proporcionados por el sistema nacional (datos.gov.co) permiten comparar el desempeño de ambos territorios en el acceso, permanencia y conectividad educativa.
+
+METODOLOGÍA
+
+Fuente de Datos: Base de datos oficial con indicadores educativos desagregados por municipio y nivel escolar del sitio web del gobierno datos.gov.co.
+
+Variables clave: DEPARTAMENTO, POBLACIÓN_5_16, COBERTURA_NETA/BRUTA, DESERCIÓN, APROBACIÓN, REPITENCIA, SEDES_CONECTADAS_A_INTERNET.
+
+Enfoque:
+
+Comparativo: Comparar y contrastar indicadores claves entre Atlántico (todos sus municipios) y Bogotá (como distrito único).
+
+Desagregación: Analizar variables por nivel educativo (transición, primaria, secundaria, media).
+
+Correlación: Explorar relaciones entre conectividad a internet (SEDES_CONECTADAS_A_INTERNET) y tasas de deserción/aprobación.
+
+Herramientas: Estadística descriptiva (medias, máximos/mínimos) y análisis de correlación.
+
+
+OBJETIVO
+
+Se analizará un análisis los patrones claves en relación a la cobertura, conectividad, matrícula, deserción y rendimiento académico
+Explorar la información disponible para detectar tendencias y correlaciones clave que permitan tomar decisiones sobre la educación en los departamentos comparados
+
+
+HIPOTESIS
+1 Bogotá presenta una tasa de matrícula más alta debido a su cobertura y población. 
+2 Atlántico ha tenido un crecimiento en cobertura educativa, mostrando avances en rendimiento académico. 
+3 La deserción y rendimiento en ambos departamentos están influenciados por factores de cobertura y la conectividad.
+
+
+PREGUNTAS ESTRATÉGICAS
+
+PREGUNTAS ESTRATÉGICAS AJUSTADAS
+Sobre matrícula educativa 
+✅ ¿Cómo ha evolucionado la matrícula en Bogotá y Atlántico a lo largo de los años? 
+✅ ¿Cuál de los dos presenta mayor cobertura educativa? 
+✅ ¿Existen períodos donde hay una diferencia significativa en la matrícula entre ambos?
+
+Sobre deserción y rendimiento académico 
+✅ ¿Cuál es la tasa de deserción en Bogotá vs. Atlántico y qué factores la afectan? 
+✅ ¿El rendimiento académico es similar en ambos, o hay diferencias marcadas en aprobación y reprobación? 
+✅ ¿Influyen los recursos educativos y la infraestructura en la calidad académica?
+
+Sobre inversión educativa y correlaciones 
+✅ ¿Bogotá y Atlántico tienen diferencias en inversión educativa y cómo afecta los resultados? 
+✅ ¿Existe una relación directa entre la cantidad de estudiantes matriculados y la inversión por departamento? 
+✅ ¿Los municipios dentro de estos departamentos presentan condiciones atípicas que merecen un análisis más profundo?
+
+
+
+Sobre matrícula educativas
+¿Cómo ha evolucionado la matrícula en los estos a lo largo de los años?
+¿Segun la cantidad de poblacion que porcentaje se cubrió en matriculas? 
+¿Existen patrones de crecimiento o disminución en ciertos niveles educativos?
+
+
+Sobre inversión educativa y rendimiento
+¿Estos  con mayor acceso a internet presentan mejores indicadores de matrícula y rendimiento académico?
+¿Existe correlación entre el acceso a internet y las tasas de aprobación? 
+
+
+Sobre tendencias y correlaciones
+¿Qué factores parecen estar más relacionados con el éxito académico? 
+¿Existen municipios con condiciones atípicas en matrícula y aprobación que merecen un análisis más profundo?
