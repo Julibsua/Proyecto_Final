@@ -1,0 +1,13 @@
+# 📊 PROYECTO FINAL CONEXION MUJERES TIC 
+DATU
+Transformamos números en estrategias.
+Este proyecto está enfocado en realizar un análisis de datos aplicando los conocimientos adquiridos durante el Bootcamp CONEXION MUJERES TICS
+📁 Primeros arreglos
+1 se importan las librerias necesaria 
+2 agregamos dataset archivo csv
+3 se crea el notebook de jupyter con análisis del dataset
+4 A modo de cotejo y como paso inicial agregamos archivos con la descripción del proyecto, se explica la hipótesis los objetivos, y el enfoque del proyecto, revisar en archivo de texto Datu informe.
+
+🚀 primeros cambios 
+- se realizan ajustes al archico de texto de descripcion del proyecto y se agrega nuevo archivo de texto conm nombre INTRODUCCION.
+- se realiza la correcion de cambios en rama principal y verificamos que se visualice en git GitHub
