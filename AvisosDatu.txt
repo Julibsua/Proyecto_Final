@@ -8,11 +8,12 @@ Este proyecto está enfocado en realizar un análisis de datos aplicando los con
 3 se crea el notebook de jupyter con análisis del dataset
 4 A modo de cotejo y como paso inicial agregamos archivos con la descripción del proyecto, se explica la hipótesis los objetivos, y el enfoque del proyecto, revisar en archivo de texto Datu informe.
 
-🚀 primeros cambios 
+🚀 PRIMEROS CAMBIOS 
 - se realizan ajustes al archico de texto de descripcion del proyecto y se agrega nuevo archivo de texto conm nombre INTRODUCCION.
 - se realiza la correcion de cambios en rama principal y verificamos que se visualice en git GitHub
 
-🚀segundos cambios
+🚀SEGUNDOS CAMBIOS
+ANALISI PRELIMINAR
 - se realizan cambios en el archivo de jupyter , cambios en mapa de calor, color de graficos, corrigiendo lineas de codigo del anterior
 - se agrega linea de codigo  que permite comprara la evolucion de las matriculas del Atlantico con Bogota D.C. 
 df_comparativo_desercion = df[df["departamento"].str.lower().isin(["bogotá, d.c.", "bogotá d.c.", "atlántico"])]
@@ -28,3 +29,12 @@ Correlación: Explorar relaciones entre conectividad a internet (SEDES_CONECTADA
 Herramientas: Estadística descriptiva (medias, máximos/mínimos) y análisis de correlación.
 - se cambia el nombre del Dataset a :  mi_archivo.CSV
 - se realiza push con estos cambios por el momento y seguiremos trabajando en conjunto para sacar adelante el proyecto , realizando las demas  actividades pendientes.
+
+🚀TERCEROS CAMBIOS 
+en esta tercera entrega se agregaron estos cambios en el notebook ANALISI PRELIMINAR 2
+- Se agregan lineas de codigo para analizar la cobertura por nivel de escolaridad, Transición , media,secundaria y primaria.
+- Filtramos el DataFrame original df para quedar solo con las filas donde la columna departamento (en minúsculas) es exactamente "atlántico".
+utilizando la siguiente linea de codigo df_atlantico = df[df["departamento"].str.lower() == "atlántico"]
+- con groupby agrupamos los datos filtrados por el año.
+- con display(df_atlantico_cobertura) mostramos la tabla de forma ordenada
+- por ultimo se agrega codigo para grafica que muestre la evolucion de cobertura neta en educacion media en Atlantico y Bogota.esta nos permite analizar y comparar este porcentaje de cobertura entre los departamentos por años y concluir como ha sido su comportamiento. 
