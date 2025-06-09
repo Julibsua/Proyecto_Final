@@ -31,10 +31,19 @@ Herramientas: Estadística descriptiva (medias, máximos/mínimos) y análisis d
 - se realiza push con estos cambios por el momento y seguiremos trabajando en conjunto para sacar adelante el proyecto , realizando las demas  actividades pendientes.
 
 🚀TERCEROS CAMBIOS 
-en esta tercera entrega se agregaron estos cambios en el notebook ANALISI PRELIMINAR 2
+en esta tercera entrega se agregaron estos cambios en el  notebook ANALISI PRELIMINAR 2 creando un nuevo notebook
 - Se agregan lineas de codigo para analizar la cobertura por nivel de escolaridad, Transición , media,secundaria y primaria.
 - Filtramos el DataFrame original df para quedar solo con las filas donde la columna departamento (en minúsculas) es exactamente "atlántico".
 utilizando la siguiente linea de codigo df_atlantico = df[df["departamento"].str.lower() == "atlántico"]
 - con groupby agrupamos los datos filtrados por el año.
 - con display(df_atlantico_cobertura) mostramos la tabla de forma ordenada
 - por ultimo se agrega codigo para grafica que muestre la evolucion de cobertura neta en educacion media en Atlantico y Bogota.esta nos permite analizar y comparar este porcentaje de cobertura entre los departamentos por años y concluir como ha sido su comportamiento. 
+
+🚀 CUARTOS CAMBIOS 
+ANALISIS PRELIMINAR 3
+- en este notebook se le hizo cambio al color de graficas para que se vea mas limpia y ordenada la presentacion del grafico
+-  se escribio una nueva linea de codigo que colocara etiquetas con valores en cada punto de las graficas del grafico cobertura neta en educación media para Bogotá D.C. y Atlántico a lo largo de los años.
+ plt.text(x, y + ajuste, f"{y:.2f}", ha="center", va="top", fontsize=9, color="black")
+ - se agrego un nuevo filtrado y una lectura de un nuevo dataframe:
+ df_cobertura_por_anio = df.groupby(["año", "departamento"])["cobertura_neta"].mean().reset_index() 
+ se verifico que el df exista y tenga datos y que corriera el codigo y mostrara los datos exactos que escogimos para nuestro analisis 
