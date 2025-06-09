@@ -1,0 +1,30 @@
+# 📊 PROYECTO FINAL CONEXION MUJERES TIC 
+DATU
+Transformamos números en estrategias.
+Este proyecto está enfocado en realizar un análisis de datos aplicando los conocimientos adquiridos durante el Bootcamp CONEXION MUJERES TICS
+📁 Primeros arreglos
+1 se importan las librerias necesaria 
+2 agregamos dataset archivo csv
+3 se crea el notebook de jupyter con análisis del dataset
+4 A modo de cotejo y como paso inicial agregamos archivos con la descripción del proyecto, se explica la hipótesis los objetivos, y el enfoque del proyecto, revisar en archivo de texto Datu informe.
+
+🚀 primeros cambios 
+- se realizan ajustes al archico de texto de descripcion del proyecto y se agrega nuevo archivo de texto conm nombre INTRODUCCION.
+- se realiza la correcion de cambios en rama principal y verificamos que se visualice en git GitHub
+
+🚀segundos cambios
+- se realizan cambios en el archivo de jupyter , cambios en mapa de calor, color de graficos, corrigiendo lineas de codigo del anterior
+- se agrega linea de codigo  que permite comprara la evolucion de las matriculas del Atlantico con Bogota D.C. 
+df_comparativo_desercion = df[df["departamento"].str.lower().isin(["bogotá, d.c.", "bogotá d.c.", "atlántico"])]
+df_comparativo_desercion_resumen = df_comparativo_desercion.groupby(["departamento", "año"])["desercion"].mean().reset_index()
+print(df_comparativo_desercion_resumen)
+- se edita el archivo INTRODUCCION porque le dimos concepto al enfoque de la siguiente manera: 
+Comparativo: Comparar y contrastar indicadores claves entre Atlántico (todos sus municipios) y Bogotá (como distrito único).
+
+Desagregación: Analizar variables por nivel educativo (transición, primaria, secundaria, media).
+
+Correlación: Explorar relaciones entre conectividad a internet (SEDES_CONECTADAS_A_INTERNET) y tasas de deserción/aprobación.
+
+Herramientas: Estadística descriptiva (medias, máximos/mínimos) y análisis de correlación.
+- se cambia el nombre del Dataset a :  mi_archivo.CSV
+- se realiza push con estos cambios por el momento y seguiremos trabajando en conjunto para sacar adelante el proyecto , realizando las demas  actividades pendientes.
