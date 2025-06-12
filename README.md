@@ -72,7 +72,7 @@ Las etapas realizadas durante el proyecto:
 2. Resumida: [[Ver Presentación Resumida]](https://www.canva.com/design/DAGpfNzE3zI/dZ7fHuXblulOScYwAL9TiA/edit?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Identidad Visual
-
+[[Identidad Corporativa]](https://drive.google.com/file/d/1-c4AdoRegYg9sieEpS5ZaK6zvwl3T2O9/view?usp=sharing)
 
 
 
