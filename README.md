@@ -67,9 +67,9 @@ Las etapas realizadas durante el proyecto:
 [[Dashboard Power Bi]](https://app.powerbi.com/view?r=eyJrIjoiN2MwMTliNmQtOTcxZS00YWM3LTg5NmQtNzZkNjc5Zjk4YTFlIiwidCI6IjE0NmJhOTI3LTVmYmEtNGVkNC1hNDQ5LTBiY2RkNTA2YzViOCIsImMiOjR9)
 
 ## Presentación Final
-1. Completa: [[Ver Presentación Completa]](https://www.canva.com/design/DAGp94PjZQQ/i1pLWIfefJBF6BVmcenSAg/edit?utm_content=DAGp94PjZQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+1. Completa: [[Ver Presentación Completa]](https://www.canva.com/design/DAGp94PjZQQ/EjBc2R6IlHjPVUiSIx0hIA/view?utm_content=DAGp94PjZQQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75af890b5f
 )
-2. Resumida: [[Ver Presentación Resumida]](https://www.canva.com/design/DAGpfNzE3zI/dZ7fHuXblulOScYwAL9TiA/edit?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2. Resumida: [[Ver Presentación Resumida]](https://www.canva.com/design/DAGpfNzE3zI/Eksvh5ZAADNmXbufjG2Nrw/view?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h891d186576)
 
 ## Identidad Visual
 [[Identidad Corporativa]](https://drive.google.com/file/d/1-c4AdoRegYg9sieEpS5ZaK6zvwl3T2O9/view?usp=sharing)
