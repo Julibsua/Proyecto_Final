@@ -1,21 +1,22 @@
 
 # Proyecto_Final
- conexión mujeres TIC proyecto final
+ Conexión Mujeres TIC
 =======
-# Proyecto Final - Datathon Académica
+# Datathon Académica
 
 ## Nombre del Equipo
 DATU
 Transformamos números en estrategias.
+![image](https://github.com/user-attachments/assets/04701624-42ee-4bfd-af09-fd0f6ff9e343)
 ---
 
 ## Descripción del Reto
-Descripción breve del reto que se aborda en el proyecto. Explica la relevancia del problema y por qué es importante analizarlo.
+Se realiza un análisis general y en particular sobre la situación educativa del Atlántico y Bogotá D.C., utilizando indicadores como cobertura, conectividad, y tamaño de los grupos, en la población de 5 a 16 años.
 
 ## Hipótesis
-•	La matrícula educativa ha cambiado significativamente en los últimos años en ciertos municipios. 
-•	Los niveles de deserción y aprobación pueden estar influenciados por la cantidad de estudiantes matriculados y los recursos disponibles.
-•	Los municipios con mayor inversión educativa tienden a presentar mejores indicadores de matrícula y rendimiento académico.
+•	Bogotá presenta una tasa de matrícula más alta debido a su cobertura y población. 
+•	Atlántico ha tenido un crecimiento en cobertura educativa, mostrando avances en rendimiento académico.
+•	La deserción y rendimiento en ambos departamentos están influenciados por factores de cobertura y la conectividad.
 
 ## Enfoque
 Describe el enfoque utilizado por el equipo para abordar el problema:
@@ -44,38 +45,40 @@ Indica los roles de cada miembro del equipo y describe brevemente las responsabi
 
 
 ## Pasos Realizados
-Describe de manera cronológica las etapas realizadas durante el proyecto:
+Las etapas realizadas durante el proyecto:
 1. **Recopilación de datos**: Se realiza el análisis con los datos abiertos del Gobierno de Colombia (datos.gov.co) y la ruta de los datos utilizados es  https://www.datos.gov.co/en/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/about_data
-2. **Limpieza de datos**: Se realiza la limpieza de datos de acuerdo al objetivo y necesidades, remplazando valores nulos y eliminando columnas que no se utilizaran en este proyecto..
-3. **Análisis exploratorio de datos (EDA)**: Explicar las visualizaciones e insights obtenidos durante esta etapa.
-4. **Modelado**: Describir brevemente el modelo o los modelos que se aplicaron y sus resultados.
-5. **Visualización y Dashboard**: Enlace al dashboard creado en Power BI o Tableau.
-6. **Hallazgos y Conclusiones**: Resumen de los hallazgos clave y la solución planteada.
+2. **Limpieza de datos**: Se realiza la limpieza de datos de acuerdo al objetivo y necesidades, remplazando valores nulos y eliminando columnas que no se utilizaran en este proyecto.
+3. **Análisis exploratorio de datos (EDA)**: Estadisticas y Top de lo Municipios del Atlántico.
+4. **Modelado**: Machine Learning, Regresion de Datos.
+5. **Visualización y Dashboard**: Dashboard realizado en Power Bi
+6. **Hallazgos y Conclusiones**: Se realizó presentación completa y resumida de los hallazgos y conclusiones.
 
 ## Evidencias de Trabajo Colaborativo
-- **Issues**: [Insertar enlace al repositorio de GitHub donde se encuentran los issues]
-- **Branches**: [Resumen de las ramas importantes del proyecto]
-- **Commits**: [Descripción de la frecuencia y organización de los commits]
-- **Pull Requests**: [Enlace o resumen de los pull requests relevantes]
-- **Trello**: [Enlace al tablero Kanban en Trello, Jira o Excel]
+- **Issues**: [[Ver Issues]](https://github.com/Julibsua/Proyecto_Final/issues)
+- **Branches**: [[Ver Braches]](https://github.com/Julibsua/Proyecto_Final/branches)
+- **Pull Requests**: [[Ver Pull Request]](https://github.com/Julibsua/Proyecto_Final/pulls)
+- **Trello**: [[Ver Trello]](https://trello.com/c/JK5LEvSb)
 
 ## Exportación de Base de Datos
-https://www.datos.gov.co/en/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/about_data
+[[datos.gov.co]](https://www.datos.gov.co/en/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/about_data)
 
 ---
 ## Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiN2MwMTliNmQtOTcxZS00YWM3LTg5NmQtNzZkNjc5Zjk4YTFlIiwidCI6IjE0NmJhOTI3LTVmYmEtNGVkNC1hNDQ5LTBiY2RkNTA2YzViOCIsImMiOjR9 
+[[Dashboard Power Bi]](https://app.powerbi.com/view?r=eyJrIjoiN2MwMTliNmQtOTcxZS00YWM3LTg5NmQtNzZkNjc5Zjk4YTFlIiwidCI6IjE0NmJhOTI3LTVmYmEtNGVkNC1hNDQ5LTBiY2RkNTA2YzViOCIsImMiOjR9)
 
 ## Presentación Final
-Completa: https://www.canva.com/design/DAGp94PjZQQ/i1pLWIfefJBF6BVmcenSAg/edit?utm_content=DAGp94PjZQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Presentación: https://www.canva.com/design/DAGpfNzE3zI/dZ7fHuXblulOScYwAL9TiA/edit?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+1. Completa: [[Ver Presentación Completa]](https://www.canva.com/design/DAGp94PjZQQ/i1pLWIfefJBF6BVmcenSAg/edit?utm_content=DAGp94PjZQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+)
+2. Resumida: [[Ver Presentación Resumida]](https://www.canva.com/design/DAGpfNzE3zI/dZ7fHuXblulOScYwAL9TiA/edit?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Identidad Visual
-![image](https://github.com/user-attachments/assets/04701624-42ee-4bfd-af09-fd0f6ff9e343)
+
 
 
 
 ---
 
 ## Recursos Externos
-Los recuros utiizados son del sitio web www.datos.gov.co.
+1. Los recuros utiizados son del sitio web www.datos.gov.co.
+2. Para la Presentación https://www.canva.com/
+3. Para imagenes https://www.freepik.com/ y https://www.canva.com/
