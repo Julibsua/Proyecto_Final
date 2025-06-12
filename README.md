@@ -63,12 +63,17 @@ Describe de manera cronológica las etapas realizadas durante el proyecto:
 https://www.datos.gov.co/en/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/about_data
 
 ---
+## Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiN2MwMTliNmQtOTcxZS00YWM3LTg5NmQtNzZkNjc5Zjk4YTFlIiwidCI6IjE0NmJhOTI3LTVmYmEtNGVkNC1hNDQ5LTBiY2RkNTA2YzViOCIsImMiOjR9 
 
 ## Presentación Final
-URL del POWER POINT
+Completa: https://www.canva.com/design/DAGp94PjZQQ/i1pLWIfefJBF6BVmcenSAg/edit?utm_content=DAGp94PjZQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Presentación: https://www.canva.com/design/DAGpfNzE3zI/dZ7fHuXblulOScYwAL9TiA/edit?utm_content=DAGpfNzE3zI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Identidad Visual
-logo, fondo para la presentacion etc.
+![image](https://github.com/user-attachments/assets/04701624-42ee-4bfd-af09-fd0f6ff9e343)
+
+
 
 ---
 
